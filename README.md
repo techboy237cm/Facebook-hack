@@ -62,7 +62,7 @@ git https://github.com/Techboy237-hack/facebookhack.git
 #### RUN SCRIPT
 ```python
 $ $ cd facebookhack 
-$ python facebookhack.py
+$ python facebookhack_Enc.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
@@ -73,7 +73,7 @@ $ python facebookhack.py
 #### [~] SINGLE COMMAND
 
 ```python
-termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/Techboy237-hack/facebookhack.git ; ls ; cd facebookhack  ; python facebookhack.py
+termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/Techboy237-hack/facebookhack.git ; ls ; cd facebookhack  ; python facebookhack_Enc.py
 ```
 
 #### MY SOCIAL MEDIA
