@@ -45,7 +45,7 @@ CONTACT : <p>Techboy237.cm@gmail.com</p>  <br> <br>
 
 </br>
 <p align="center">
-    TECHBOY237 FACEBOOK  ACCOUNTS HACKING
+    TECHBOY237 FACEBOOK  HACKING
 </p>
 
 #### INSTALL TOOL ON TERMUX
