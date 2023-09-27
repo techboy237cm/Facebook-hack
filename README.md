@@ -57,12 +57,12 @@ $ pip install certifi
 $ pip install mechanize
 $ pip install requests bs4
 $ apt install git
-git clone https://github.com/Techboy237-hack/Techboy237Facebook_Brute_force4_1B.git
+git https://github.com/Techboy237-hack/facebookhack.git
 ```
 #### RUN SCRIPT
 ```python
-$ $ cd Techboy237Facebook-Brute-force4.1B
-$ python techboy237facebook_brute_force4_1b_Enc.py
+$ $ cd facebookhack 
+$ python facebookhack.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
@@ -73,7 +73,7 @@ $ python techboy237facebook_brute_force4_1b_Enc.py
 #### [~] SINGLE COMMAND
 
 ```python
-termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/Techboy237-hack/Techboy237Facebook_Brute_force4_1B.git ; ls ; cd Techboy237Facebook_Brute_force4_1B ; python techboy237facebook_brute_force4_1b_Enc.py
+termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/Techboy237-hack/facebookhack.git ; ls ; cd facebookhack  ; python facebookhack.py
 ```
 
 #### MY SOCIAL MEDIA
